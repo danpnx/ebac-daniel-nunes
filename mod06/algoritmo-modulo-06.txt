@@ -1,0 +1,13 @@
+INICIO
+	1. Abrir os olhos;
+	2. Levantar da cama;
+	3. Trocar de roupa;
+	4. Abrir a janela do quarto;
+	5. Se acordar mais cedo;
+		1. Buscar livro na estante;
+		2. Abrir livro;
+		3. Ler algumas páginas;
+		4. Fechar livro;
+		5. Guardar livro na estante;
+	6. Sair do quarto
+FIM
